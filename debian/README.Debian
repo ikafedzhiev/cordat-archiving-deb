@@ -1,0 +1,8 @@
+cordat-archiving
+----------------
+
+Package that will deploy the cordat archiving on a server.
+Note that this package still depends on the pythonscript that will get the lots from visual-apps.
+This one is distributed through cfengine.
+
+ -- ika@melexis.com / jsl@melexis.com 2013

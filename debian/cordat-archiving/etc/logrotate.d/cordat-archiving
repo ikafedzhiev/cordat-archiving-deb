@@ -1,0 +1,8 @@
+/var/log/datalog-archiving.log {
+    size 1000M
+    rotate 10
+    compress
+    delaycompress
+    notifempty   
+    create 666 root users
+}

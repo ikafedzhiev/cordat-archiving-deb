@@ -1,0 +1,16 @@
+Source: cordat-archiving
+Section: unknown
+Priority: extra
+Maintainer: ika@melexis.com / jsl@melexis.com
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: cordat-archiving
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libdbd-pg-perl, libdbi-perl, liblog-log4perl-perl, postgresql-client, python-suds, python-pkg-resources, libfilesys-diskspace-perl,  libdatetime-perl
+Description: Cordat Archiving
+ This program will get a list of lots from visual apps
+ that have been shipped to customers and will 
+ cross check them for recent changes before archiving.
+

@@ -1,0 +1,43 @@
+cordat-archiving (2.0) unstable; urgency=low
+
+  * Recoded to be used on the ESB
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 14:45:00 +0100
+
+cordat-archiving (1.0-6) unstable; urgency=low
+
+  * Fixed some more bugs, cleaned code
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 14:45:00 +0100
+
+
+cordat-archiving (1.0-5) unstable; urgency=low
+
+  * Added lock and fixed some bugs
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 14:45:00 +0100
+
+cordat-archiving (1.0-4) unstable; urgency=low
+
+  * Fixed tmp script path in archival & set linuxtesters crosscheck time to same as end date
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 14:45:00 +0100
+
+cordat-archiving (1.0-3) unstable; urgency=low
+
+  * Added GetShippedLots.py
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 14:45:00 +0100
+
+cordat-archiving (1.0-2) unstable; urgency=low
+
+  * Initial release
+
+ -- Jelle Slaets <jsl@melexis.com>  Tue, 11 Jun 2013 13:45:00 +0100
+
+cordat-archiving (1.0-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Jelle Slaets <jsl@melexis.com>  Fri, 7 Jun 2013 13:45:00 +0100
+ 

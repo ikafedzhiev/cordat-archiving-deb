@@ -1,0 +1,13 @@
+Package: cordat-archiving
+Version: 1.0-6
+Architecture: amd64
+Maintainer: ika@melexis.com / jsl@melexis.com
+Installed-Size: 36
+Depends: libdbd-pg-perl, libdbi-perl, liblog-log4perl-perl, postgresql-client, python-suds, python-pkg-resources
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: Cordat Archiving
+ This program will get a list of lots from visual apps
+ that have been shipped to customers and will
+ cross check them for recent changes before archiving.

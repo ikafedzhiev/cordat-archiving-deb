@@ -1,0 +1,25 @@
+This package was debianized by jsl@melexis.com on
+Fri, 7 June 2013.
+
+It was downloaded from <url://example.com>
+
+Upstream Author(s):
+    Jelle Slaets <jsl@melexis.com>
+    Ivan Kafedzhiev <ika@melexis.com>
+    
+
+Copyright:
+
+    Melexis
+    
+
+License:
+
+    <Put the license of the package here indented by 4 spaces>
+
+The Debian packaging is (C) 2011, root <root@atlan.erfurt.elex.be> and
+is licensed under the GPL, see `/usr/share/common-licenses/GPL'.
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
+

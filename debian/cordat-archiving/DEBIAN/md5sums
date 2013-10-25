@@ -1,0 +1,4 @@
+d9f36eea1362fd747c12358a45f71726  usr/sbin/cordatArchive.pl
+f9ad8fe2fac759d549327ef647b9bffb  usr/sbin/GetShippedLots.py
+99c5eb59dd69590c3854ffb4baf079d8  usr/share/doc/cordat-archiving/changelog.Debian.gz
+d41d8cd98f00b204e9800998ecf8427e  var/log/cordat-archiving.log

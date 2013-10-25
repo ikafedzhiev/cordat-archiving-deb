@@ -1,0 +1,6 @@
+etc/log4perl
+etc/logrotate.d
+usr/bin
+usr/sbin
+var/lock
+var/log

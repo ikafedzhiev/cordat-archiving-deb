@@ -1,0 +1,3 @@
+/etc/log4perl/log4cordat.conf
+/etc/logrotate.d/cordat-archiving
+/etc/cordat.conf
